@@ -66,8 +66,6 @@ Each project is approached with the understanding that trust is earned through r
 
 A trusted video surveillance company focuses on more than installation day. System longevity, ease of management, and future expansion are considered from the beginning. J3K Technologies designs systems that support operational growth while minimizing disruption and maintenance challenges.
 
-Organizations seeking deeper technical perspectives and surveillance planning insights can explore additional resources available through < > and < >.
-
 ---
 
 ## Why Organizations Choose J3K Technologies
